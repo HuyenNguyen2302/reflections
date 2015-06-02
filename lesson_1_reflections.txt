@@ -1,0 +1,64 @@
+Question: How did viewing a diff between 
+two versions of a file help you see 
+the bug that was introduced?
+
+Answer: Viewing a diff between 2 versions
+of a file helps me spot the difference 
+between the two, and from there I can 
+quicly what modifications have been made. 
+That's where the bug is likely to be.
+
+Question: How could having easy access 
+to the entire history of a file make 
+you a more efficient programmer in the long term?
+
+Answer: 
++ I can see what changes others have made to the 
+project, and discuss with them about those.
++ I can also review the changes I have made
+and choose to continue working on the project
+of any phase. This is going to be useful if I made
+mistakes in the earliest versions of the project.
+
+Question: What do you think are the pros and cons 
+of manually choosing when to create a commit, 
+like you do in Git, vs having versions 
+automatically saved, like Google docs does?
+
+Answer:
++ Pros: Programmers can choose when to make a breaking
+point and ensure what each one will make sense.
++ Cons: Programmers might nor make meaningful breaking 
+point, and the change might be too big (when programmers
+forget to save changes) or too small (when programmers
+save changes too frequently).
+
+Question: Why do you think some version control systems, 
+like Git, allow saving multiple files in one commit, 
+while others, like Google Docs, treat each file separately? 
+
+Answer: Because a project involves multiple files interacting
+with each other. It's logical to allow saving multiple files 
+in 1 commit.
+
+Question: How can you use the commands git log and 
+git diff to view the history of files?
+
+Answer: 
++ Command git log shows the changes made to the project
++ Command git diff helps you compare 2 versions of a file
+
+Question: How might using version control make you 
+more confident to make changes that could break something?
+
+Answer: I can feel free to make any changes without 
+messing up my code because I could go back at any stage and 
+check my code, and I can even discard the changes if I want to.
+
+Question: Now that you have your workspace set up, 
+what do you want to try using Git for?
+
+Answer: I wanna use Git to have a better control over 
+my projects. I wanna be more organized, and I don't wanna
+worry about messing up my code.
+
