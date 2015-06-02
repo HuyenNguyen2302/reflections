@@ -1,0 +1,8 @@
+Question: What happens when you initialize a 
+repository? Why do you need to do it?
+
+Answer: My git repo doesn't have any commits
+in the beginning (I can confirm this by running
+the git status command). I wanna do this because 
+I wanna use git to keep track of changes 
+made to my project.
