@@ -1,4 +1,5 @@
-Question: When would you want to use a remote repository rather than keeping all your work local?
+Question: When would you want to use a remote 
+repository rather than keeping all your work local?
 
 Answer: 
 + Back up the files in my project.
@@ -10,3 +11,17 @@ Question: Why might you want to always pull changes
 
 Answer: If my project isn't complete, I don't wanna
 make it public on my repo on GitHub. 
+
+Question: Describe the differences between forks, 
+clones, and branches. When would you use one instead 
+of another?
+
+Answer: 
++ Forks: Copies of a repo on GitHub on another repo on GitHub. 
+This term is used for GitHub only.
++ Clones: Copies of a repo on GitHub (or a working directory)
+on another repo on GitHub (or a working directory).
++ Branch: works on the same repo. could be online
+or offline. allows you to try modifications to your project.
+
+
