@@ -37,6 +37,12 @@ Question: How would you collaborate without using Git
 Answer: I think Git is harder, because it doesn't 
 have any GUIs.
 
+Question: When would you want to make changes in a
+ separate branch rather than directly in master? What
+  benefits does each approach have?
 
+Answer: I wanna try different things. Benefit: 
+no worries about messing up my code + ask for
+other people's opinions before proceeding.
 
 
