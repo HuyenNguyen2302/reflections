@@ -30,4 +30,13 @@ Question: What is the benefit of having a copy of the
 Answer: You have it as a backup in case you mess up
 your code.
 
+Question: How would you collaborate without using Git
+ or GitHub? What would be easier, and what would be 
+ harder?
+
+Answer: I think Git is harder, because it doesn't 
+have any GUIs.
+
+
+
 
